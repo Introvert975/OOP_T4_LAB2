@@ -41,7 +41,7 @@
 </div>
 <footer class="footer">
     <div class="container">
-        <p class="text-center">&copy; 2024 Магазин Мебели. Все права защищены.</p>
+        <p class="text-center">&copy; 2024 LoopProduces. Все права защищены.</p>
     </div>
 </footer>
 <!-- Bootstrap JS (необходим для работы некоторых компонентов Bootstrap) -->
