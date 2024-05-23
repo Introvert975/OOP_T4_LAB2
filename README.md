@@ -8,7 +8,9 @@
 Минимум 5 страниц
 Редирект страниц  через сервлеты
 1 страница:
-![image](https://github.com/Introvert975/OOP_T4_LAB2/assets/124875856/247e8e5d-d778-4c99-94f7-96340cb6d6f0)
+![image](https://github.com/Introvert975/OOP_T4_LAB2/assets/124875856/e3a6b62a-3a13-4377-8655-c94874e95e60)
+Продолжение:
+![image](https://github.com/Introvert975/OOP_T4_LAB2/assets/124875856/b831ece6-3a79-44b2-b1f3-aa485e1d194c)
 2 страница:
 ![image](https://github.com/Introvert975/OOP_T4_LAB2/assets/124875856/ea16d3f7-e805-42f2-8222-5216944c70fb)
 3 страница:
