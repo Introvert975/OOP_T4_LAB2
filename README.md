@@ -19,4 +19,5 @@
 ![image](https://github.com/Introvert975/OOP_T4_LAB2/assets/124875856/19784f45-8570-444a-b1c1-f0940eb1b3e6)
 5 страница:
 ![image](https://github.com/Introvert975/OOP_T4_LAB2/assets/124875856/eec4714f-eac8-423b-95d0-d8c83d2d1c74)
+Продолжение:
 ![image](https://github.com/Introvert975/OOP_T4_LAB2/assets/124875856/674b475f-fb82-41ad-8563-a2185222b491)
